@@ -8,6 +8,7 @@ main()
 		{
 			printf("%d ", result);
 		}
+		return 0;
 	}
 	else
 	{
